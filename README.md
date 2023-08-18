@@ -42,6 +42,7 @@ php artisan migrate
 ```
 php artisan migrate:fresh --seed
 ```
+### Ejecución 
 10. Activar Apache y MYQSL
 11. Ejecutar el comando
 ```
